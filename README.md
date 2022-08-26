@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Naveen Karanth
 - 👀 I’m interested in all things related to data.
-- 🌱 I’m currently learning Power BI to implement one of the KPI dashboards
-- 💞️ I’m looking to collaborate on data analytics and visualisation
+- 🌱 I’m currently learning Machine Learning algorithms to understand its applications
+- 💞️ I’m looking to collaborate on data science, analytics and visualisation
 - 📫 Reach me at naveenfaster@gmail.com
 
 <!---
