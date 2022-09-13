@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naveen Karanth
 - 👀 I’m interested in all things related to data.
-- 🌱 I’m currently learning Machine Learning algorithms to understand its applications
+- 🌱 I’m currently learning Machine Learning algorithms to better understand its applications
 - 💞️ I’m looking to collaborate on data science, analytics and visualisation
 - 📫 Reach me at naveenfaster@gmail.com
 
