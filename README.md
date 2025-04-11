@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Naveen Karanth</h1>
-<h3 align="center">A Machine Learning enthusiast from Bangalore, India</h3>
+<h3 align="center">A Devops Engineer from Bangalore, India</h3>
 
-- 🔭 I’m currently working on [end-to-end finance complaint severity classification using Pyspark, Circle CI and GCP](https://github.com/nav52/finance-complaint)
+- 🔭 I’m currently working at British Telecom on Kubernetes, CI/CD, Gitops, ArgoCD, AWS services like EKS, Lambda, RDS, S3, IAM. I lead a team of 5 for DevOps and FinOps activities.
 
-- 🌱 I’m currently learning **CNN and Time-series analysis**
+- 🌱 I’m currently preparing for **Certified Kubernetes Application Developer(CKAD) Certification**
 
-- 👯 I’m looking to collaborate on **anything related to ML and MLOps**
+- 👯 I’m looking to collaborate on **anything related to Devops and MLOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nav52/](https://github.com/nav52/)
 
-- 💬 Ask me about **Pandas, Machine Learning algorithms and ML-Ops**
+- 💬 Ask me about **Kubernetes, AWS, Python, Linux, ArgoCD, Gitlab CI/CD, Terraform**
 
 - 📫 How to reach me **naveenfaster@gmail.com**
 
